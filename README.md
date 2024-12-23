@@ -169,7 +169,9 @@ div.desc {
 ```
 # OUTPUT:
 ![avn gallery2](https://github.com/user-attachments/assets/37a11b4a-1ac6-4c34-b569-93afacb82060)
+
 ![avn gallery1](https://github.com/user-attachments/assets/4e459c6d-88d9-4444-89ae-4e39b71276a9)
+
 ![avn gallery](https://github.com/user-attachments/assets/957ff9f5-c3bd-4b77-9a47-8cb7b13f26ef)
 
 # RESULT:
